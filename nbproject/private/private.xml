@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ParkingLotSystem/src/parking/system/abstracts/ParkingSlot.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ParkingLotSystem/src/parking/system/abstracts/Vehicle.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ParkingLotSystem/src/parking/system/model/Car.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ParkingLotSystem/src/parking/system/model/Motorcycle.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ParkingLotSystem/src/parking/system/model/Truck.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ParkingLotSystem/src/parking/system/model/ParkingSlotImpl.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ParkingLotSystem/src/parking/system/service/ParkingService.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ParkingLotSystem/src/parking/system/service/FeeCalculatorService.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ParkingLotSystem/src/parking/system/dao/ParkingDAO.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ParkingLotSystem/src/parking/system/database/DatabaseConnection.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/ParkingLotSystem/src/parking/system/gui/ParkingSystemGUI.java</file>
+        </group>
+    </open-files>
+</project-private>
